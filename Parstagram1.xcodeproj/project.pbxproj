@@ -22,6 +22,7 @@
 		B58D2A5028F4F64B003DA65E /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58D2A4F28F4F64B003DA65E /* FeedViewController.swift */; };
 		B58D2A5228F500AE003DA65E /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58D2A5128F500AE003DA65E /* CameraViewController.swift */; };
 		B58D2A5428F53924003DA65E /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58D2A5328F53924003DA65E /* PostCell.swift */; };
+		B5D037DB28FBC37500B287CD /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D037DA28FBC37500B287CD /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		B58D2A4F28F4F64B003DA65E /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		B58D2A5128F500AE003DA65E /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		B58D2A5328F53924003DA65E /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		B5D037DA28FBC37500B287CD /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		B9F398BF9A7F4A19912BB61A /* Pods-Parstagram1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parstagram1.debug.xcconfig"; path = "Target Support Files/Pods-Parstagram1/Pods-Parstagram1.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -145,6 +147,7 @@
 				B58D2A4F28F4F64B003DA65E /* FeedViewController.swift */,
 				B58D2A5128F500AE003DA65E /* CameraViewController.swift */,
 				B58D2A5328F53924003DA65E /* PostCell.swift */,
+				B5D037DA28FBC37500B287CD /* CommentCell.swift */,
 			);
 			path = Parstagram1;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				B58D2A5028F4F64B003DA65E /* FeedViewController.swift in Sources */,
 				B58D2A2028F4F092003DA65E /* SceneDelegate.swift in Sources */,
 				B58D2A5428F53924003DA65E /* PostCell.swift in Sources */,
+				B5D037DB28FBC37500B287CD /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
